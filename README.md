@@ -1,5 +1,3 @@
-README.txt
-
 Install the library Keras library.
 The data used for this project is Flickr8k images
 Link - https://www.kaggle.com/shadabhussain/flickr8k
